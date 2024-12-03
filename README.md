@@ -19,3 +19,7 @@ Pode ser difícil providenciar uma interface comum para classes cuja funcionalid
 ### Conclusão
 
 O pattern composite funciona muito bem para resolver o problema quando estamos trabalhando com objetos que podem conter outros objetos dentro, seguindo este padrão de arvore mas ele acaba sendo bem engessado por conta de ser feito exclusivamente para utilização de arvores como estrutura, então acaba sendo um pattern com usos bem especificos mas ainda assim resolvendo muito bem o problema que ele fui contruido para solucionar
+
+### Video
+
+https://drive.google.com/file/d/1t6jZrMQ6zQXn8MhYx_x9Imu-WWDZoZIG/view?usp=drive_link
