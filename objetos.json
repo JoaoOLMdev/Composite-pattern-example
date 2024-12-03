@@ -1,0 +1,19 @@
+[
+  {
+    "nome": "Espada de Fogo",
+    "dano": 50
+  },
+  {
+    "nome": "Bau do Tesouro",
+    "itens": [
+      {
+        "nome": "Espada de Gelo",
+        "dano": 40
+      },
+      {
+        "nome": "Poção de Cura",
+        "raridade": "Comum"
+      }
+    ]
+  }
+]

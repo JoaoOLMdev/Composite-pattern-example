@@ -1,0 +1,23 @@
+[
+  {
+    "tipo": "Espada",
+    "nome": "Espada de Fogo",
+    "dano": 50
+  },
+  {
+    "tipo": "Bau",
+    "nome": "Bau do Tesouro",
+    "itens": [
+      {
+        "tipo": "Espada",
+        "nome": "Espada de Gelo",
+        "dano": 40
+      },
+      {
+        "tipo": "Poção",
+        "nome": "Poção de Cura",
+        "raridade": "Comum"
+      }
+    ]
+  }
+]
